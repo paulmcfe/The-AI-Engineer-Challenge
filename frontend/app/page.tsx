@@ -10,7 +10,7 @@ export default function Home() {
           <div className="bg-gradient-to-r from-indigo-600 to-purple-600 px-6 py-4">
             <h1 className="text-2xl font-bold text-white">Mental Coach Assistant</h1>
             <p className="text-indigo-100 text-sm mt-1">
-              Your supportive companion for stress, motivation, habits, and confidence
+              Your supportive companion for stress, motivation, habits, and confidence.
             </p>
           </div>
           <ChatInterface />
